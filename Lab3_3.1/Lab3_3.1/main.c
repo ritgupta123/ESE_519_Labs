@@ -1,5 +1,5 @@
-#define F_CPU 16000000UL
-#define BAUD 9600
++#define F_CPU 16000000UL
++#define BAUD 9600
 
 #include <avr/io.h>
 #include "uart.h"
